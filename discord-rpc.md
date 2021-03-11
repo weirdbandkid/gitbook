@@ -13,7 +13,7 @@ git clone https://github.com/weirdbandkid/discordrpc.git
 ```
 
 {% hint style="info" %}
-Note: This will install in your current director
+Note: This will install in your current directory
 {% endhint %}
 
 Once you did that, edit the `index.js` file
