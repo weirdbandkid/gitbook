@@ -9,7 +9,7 @@ description: This is how to use my Discord RPC
 You can clone the repo by doing:
 
 ```
-git clone https://github.com/weirdbandkid/discordrpc.git
+git clone https://github.com/weirdbandkid-games/discordrpc.git
 ```
 
 {% hint style="info" %}
