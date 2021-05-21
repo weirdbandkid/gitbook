@@ -14,7 +14,7 @@ Join my [Discord](https://discord.gg/cEhU6VF) and ask for the FiveM whitelist ro
 
 Once you have the role, open the application and click play.
 
-In the search box, type `fivem.weirdbandkid.tk`
+In the search box, type `fivem.weirdbandkid.games`
 
 If you need more help, message `weirdbandkid#6833` on Discord
 
